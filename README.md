@@ -1,2 +1,2 @@
 # Projet-C-
-Détection de dérivé en flux de données industriels
+Détection de dérives de concept en flux de données industriels
